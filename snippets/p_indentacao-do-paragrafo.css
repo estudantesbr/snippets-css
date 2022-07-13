@@ -1,0 +1,5 @@
+/* Indenta a primeira linha dos paragrafos, para um visual mais parecido com o de editores de texto tradicional. */
+.markdown-preview-section p {
+    text-indent: 3%;
+  }
+  
